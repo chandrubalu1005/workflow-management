@@ -1,0 +1,65 @@
+[{
+  "_id": {
+    "$oid": "69a8fee4d06629699331a715"
+  },
+  "name": "Test Project",
+  "description": "Verification project to check progress bars.",
+  "status": "active",
+  "priority": "medium",
+  "healthStatus": "on-track",
+  "ownerType": "individual",
+  "teamId": null,
+  "startDate": {
+    "$date": "2026-03-05T00:00:00.000Z"
+  },
+  "endDate": null,
+  "manager": {
+    "$oid": "69a8fea9d06629699331a6ea"
+  },
+  "members": [],
+  "progress": 0,
+  "tasks": [
+    {
+      "$oid": "69af988f81ead53718412585"
+    }
+  ],
+  "createdAt": {
+    "$date": "2026-03-05T03:56:20.983Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-10T04:05:35.524Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69d0cf700cf8cc1185fdfa14"
+  },
+  "name": "work station - 4/4/2026",
+  "description": "ddddd",
+  "status": "planning",
+  "priority": "medium",
+  "healthStatus": "on-track",
+  "ownerType": "individual",
+  "teamId": null,
+  "manager": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "members": [
+    {
+      "$oid": "69904e16508281520d683c8f"
+    }
+  ],
+  "progress": 0,
+  "tasks": [],
+  "startDate": {
+    "$date": "2026-04-04T08:44:32.971Z"
+  },
+  "createdAt": {
+    "$date": "2026-04-04T08:44:32.971Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-04T08:44:32.971Z"
+  },
+  "__v": 0
+}]

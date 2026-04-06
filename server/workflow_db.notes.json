@@ -1,0 +1,34 @@
+[{
+  "_id": {
+    "$oid": "69b240e224f811a26bd347ce"
+  },
+  "content": "hi i am shiva\n",
+  "isPrivate": true,
+  "user": {
+    "$oid": "69904f118775588f4218a24b"
+  },
+  "createdAt": {
+    "$date": "2026-03-12T04:28:18.736Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-12T04:28:29.083Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b243a824f811a26bd34c08"
+  },
+  "content": "Test note content. Verification in progress.",
+  "isPrivate": true,
+  "user": {
+    "$oid": "699d66049ab8d23389e3fca1"
+  },
+  "createdAt": {
+    "$date": "2026-03-12T04:40:08.419Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-12T04:40:08.419Z"
+  },
+  "__v": 0
+}]

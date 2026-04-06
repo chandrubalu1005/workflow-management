@@ -1,0 +1,220 @@
+[{
+  "_id": {
+    "$oid": "69929f6919a3495b5d007c62"
+  },
+  "title": "Initial Planning",
+  "deadline": {
+    "$date": "2026-02-16T00:00:00.000Z"
+  },
+  "isCompleted": false,
+  "task": {
+    "$oid": "69929f6919a3495b5d007c60"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-16T04:39:05.160Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-06T05:05:25.200Z"
+  },
+  "completedAt": null
+},
+{
+  "_id": {
+    "$oid": "69929f6919a3495b5d007c63"
+  },
+  "title": "Execution Phase",
+  "deadline": {
+    "$date": "2026-02-18T00:00:00.000Z"
+  },
+  "isCompleted": false,
+  "task": {
+    "$oid": "69929f6919a3495b5d007c60"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-16T04:39:05.160Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-06T05:05:22.953Z"
+  },
+  "completedAt": null
+},
+{
+  "_id": {
+    "$oid": "69929f6919a3495b5d007c64"
+  },
+  "title": "Final Review",
+  "deadline": {
+    "$date": "2026-02-24T00:00:00.000Z"
+  },
+  "isCompleted": false,
+  "task": {
+    "$oid": "69929f6919a3495b5d007c60"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-16T04:39:05.160Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-16T04:39:05.160Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69aaa8f52ff85814639211cf"
+  },
+  "title": "complete day",
+  "user": {
+    "$oid": "69aaa8a42ff858146392117c"
+  },
+  "deadline": {
+    "$date": "2027-12-01T00:00:00.000Z"
+  },
+  "isCompleted": false,
+  "task": null,
+  "createdAt": {
+    "$date": "2026-03-06T10:14:13.116Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-12T04:31:56.558Z"
+  },
+  "__v": 0,
+  "completedAt": null,
+  "rewardPoints": 50
+},
+{
+  "_id": {
+    "$oid": "69af9edcf8cb0b65ce889179"
+  },
+  "title": "Initial Planning",
+  "user": {
+    "$oid": "699d66049ab8d23389e3fca1"
+  },
+  "deadline": {
+    "$date": "2026-03-11T00:00:00.000Z"
+  },
+  "isCompleted": true,
+  "task": {
+    "$oid": "69af9edcf8cb0b65ce889176"
+  },
+  "rewardPoints": 50,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-10T04:32:28.375Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-10T04:42:45.949Z"
+  },
+  "completedAt": {
+    "$date": "2026-03-10T04:42:45.949Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69af9edcf8cb0b65ce88917a"
+  },
+  "title": "Execution Phase",
+  "user": {
+    "$oid": "699d66049ab8d23389e3fca1"
+  },
+  "deadline": {
+    "$date": "2026-03-12T00:00:00.000Z"
+  },
+  "isCompleted": true,
+  "task": {
+    "$oid": "69af9edcf8cb0b65ce889176"
+  },
+  "rewardPoints": 50,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-10T04:32:28.375Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-11T03:27:54.512Z"
+  },
+  "completedAt": {
+    "$date": "2026-03-11T03:27:54.512Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69af9edcf8cb0b65ce88917b"
+  },
+  "title": "Final Review",
+  "user": {
+    "$oid": "699d66049ab8d23389e3fca1"
+  },
+  "deadline": {
+    "$date": "2026-03-15T00:00:00.000Z"
+  },
+  "isCompleted": true,
+  "task": {
+    "$oid": "69af9edcf8cb0b65ce889176"
+  },
+  "rewardPoints": 50,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-10T04:32:28.375Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-10T04:42:54.448Z"
+  },
+  "completedAt": {
+    "$date": "2026-03-10T04:42:54.448Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69b242dc24f811a26bd3498b"
+  },
+  "title": "Initial Planning",
+  "user": {
+    "$oid": "69904f118775588f4218a24b"
+  },
+  "deadline": {
+    "$date": "2026-03-12T00:00:00.000Z"
+  },
+  "isCompleted": true,
+  "task": {
+    "$oid": "69b242dc24f811a26bd34988"
+  },
+  "rewardPoints": 50,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-12T04:36:44.433Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T07:40:21.008Z"
+  },
+  "completedAt": {
+    "$date": "2026-03-25T07:40:21.008Z"
+  },
+  "pointsAwarded": false
+},
+{
+  "_id": {
+    "$oid": "69b242dc24f811a26bd3498c"
+  },
+  "title": "Execution Phase",
+  "user": {
+    "$oid": "69904f118775588f4218a24b"
+  },
+  "deadline": {
+    "$date": "2026-03-13T00:00:00.000Z"
+  },
+  "isCompleted": false,
+  "task": {
+    "$oid": "69b242dc24f811a26bd34988"
+  },
+  "rewardPoints": 50,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-12T04:36:44.433Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T07:39:54.045Z"
+  },
+  "completedAt": null,
+  "pointsAwarded": false
+}]

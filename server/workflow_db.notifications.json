@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "69d0d9a10cf8cc1185fe021d"
+  },
+  "recipient": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "type": "completion",
+  "title": "Task Completed",
+  "message": "Task \"server\" has been marked completed by a user.",
+  "read": true,
+  "relatedTask": {
+    "$oid": "69d0cf710cf8cc1185fdfa16"
+  },
+  "relatedProject": null,
+  "relatedTeam": null,
+  "actionUrl": "/admin/tasks",
+  "createdAt": {
+    "$date": "2026-04-04T09:28:01.677Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T08:27:28.724Z"
+  },
+  "__v": 0
+}]

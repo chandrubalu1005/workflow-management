@@ -1,0 +1,4299 @@
+[{
+  "_id": {
+    "$oid": "69904f078775588f4218a237"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-02-14T10:31:35.319Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-02-14T10:31:35.321Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-14T10:31:35.321Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69904f118775588f4218a24d"
+  },
+  "action": "USER_CREATED",
+  "details": "{\"createdUserId\":\"69904f118775588f4218a24b\",\"name\":\"kiran\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-02-14T10:31:45.569Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-14T10:31:45.569Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6990525f96015a71b9a5449d"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-02-14T10:45:51.361Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-02-14T10:45:51.364Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-14T10:45:51.364Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6990528ea0bbce8fc5cdd28f"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-02-14T10:46:38.617Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904f118775588f4218a24b"
+  },
+  "createdAt": {
+    "$date": "2026-02-14T10:46:38.620Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-14T10:46:38.620Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6990529ba0bbce8fc5cdd2d7"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-02-14T10:46:51.218Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904f118775588f4218a24b"
+  },
+  "createdAt": {
+    "$date": "2026-02-14T10:46:51.219Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-14T10:46:51.219Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6990529fa0bbce8fc5cdd2db"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-02-14T10:46:55.779Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-02-14T10:46:55.781Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-14T10:46:55.781Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69929837dbfb04b80e425d47"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-02-16T04:08:23.750Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-02-16T04:08:23.754Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-16T04:08:23.754Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69929f6919a3495b5d007c67"
+  },
+  "action": "TASK_CREATED",
+  "details": "{\"taskId\":\"69929f6919a3495b5d007c60\",\"title\":\"FDGRDtufyk\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-02-16T04:39:05.201Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-16T04:39:05.201Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69929f8819a3495b5d007c70"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-02-16T04:39:36.055Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904f118775588f4218a24b"
+  },
+  "createdAt": {
+    "$date": "2026-02-16T04:39:36.056Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-16T04:39:36.056Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69929fa119a3495b5d007ca6"
+  },
+  "action": "GOAL_COMPLETED",
+  "details": "{\"goalId\":\"69929f6919a3495b5d007c62\",\"title\":\"Initial Planning\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904f118775588f4218a24b"
+  },
+  "createdAt": {
+    "$date": "2026-02-16T04:40:01.365Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-16T04:40:01.365Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6992a01f19a3495b5d007d0a"
+  },
+  "action": "GOAL_COMPLETED",
+  "details": "{\"goalId\":\"69929f6919a3495b5d007c63\",\"title\":\"Execution Phase\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904f118775588f4218a24b"
+  },
+  "createdAt": {
+    "$date": "2026-02-16T04:42:07.363Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-16T04:42:07.363Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6996e2985f664103acf8ba56"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-02-19T10:14:48.214Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904f118775588f4218a24b"
+  },
+  "createdAt": {
+    "$date": "2026-02-19T10:14:48.215Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-19T10:14:48.215Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6996e2bd5f664103acf8ba74"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-02-19T10:15:25.336Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904f118775588f4218a24b"
+  },
+  "createdAt": {
+    "$date": "2026-02-19T10:15:25.336Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-19T10:15:25.336Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6996e2c15f664103acf8ba78"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-02-19T10:15:29.092Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-02-19T10:15:29.092Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-19T10:15:29.092Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6996e6985f664103acf8bafa"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-02-19T10:31:52.493Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-02-19T10:31:52.494Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-19T10:31:52.494Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6996eaa05f664103acf8bb1c"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-02-19T10:49:04.668Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-02-19T10:49:04.668Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-19T10:49:04.668Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699d3972292e9e275e834811"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-02-24T05:38:58.389Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-02-24T05:38:58.390Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-24T05:38:58.390Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699d397e292e9e275e834833"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-02-24T05:39:10.479Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904f118775588f4218a24b"
+  },
+  "createdAt": {
+    "$date": "2026-02-24T05:39:10.479Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-24T05:39:10.479Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699d3987292e9e275e834837"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-02-24T05:39:19.927Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-02-24T05:39:19.927Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-24T05:39:19.927Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699d39bd292e9e275e834859"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-02-24T05:40:13.116Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-02-24T05:40:13.116Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-24T05:40:13.116Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699d3a24292e9e275e8348b3"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-02-24T05:41:56.124Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904f118775588f4218a24b"
+  },
+  "createdAt": {
+    "$date": "2026-02-24T05:41:56.125Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-24T05:41:56.125Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699d43ac292e9e275e834925"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-02-24T06:22:36.792Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904f118775588f4218a24b"
+  },
+  "createdAt": {
+    "$date": "2026-02-24T06:22:36.793Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-24T06:22:36.793Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699d43b1292e9e275e834929"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-02-24T06:22:41.008Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-02-24T06:22:41.008Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-24T06:22:41.008Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699d43bf292e9e275e83496c"
+  },
+  "action": "GOAL_UNCOMPLETED",
+  "details": "{\"goalId\":\"69929f6919a3495b5d007c63\",\"title\":\"Execution Phase\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-02-24T06:22:55.668Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-24T06:22:55.668Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699d5a999ab8d23389e3f9ac"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-02-24T08:00:25.479Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904f118775588f4218a24b"
+  },
+  "createdAt": {
+    "$date": "2026-02-24T08:00:25.481Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-24T08:00:25.481Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699d5afe9ab8d23389e3fa1c"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-02-24T08:02:06.276Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-02-24T08:02:06.276Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-24T08:02:06.276Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699d5b1a9ab8d23389e3fa62"
+  },
+  "action": "TEAM_CREATED",
+  "details": "{\"teamId\":\"699d5b1a9ab8d23389e3fa60\",\"name\":\"LEVEL\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-02-24T08:02:34.701Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-24T08:02:34.701Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699d5e529ab8d23389e3fb43"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-02-24T08:16:18.160Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904f118775588f4218a24b"
+  },
+  "createdAt": {
+    "$date": "2026-02-24T08:16:18.160Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-24T08:16:18.160Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699d5eb09ab8d23389e3fbb5"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-02-24T08:17:52.092Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-02-24T08:17:52.092Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-24T08:17:52.092Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699d65039ab8d23389e3fbd7"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-02-24T08:44:51.669Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-02-24T08:44:51.669Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-24T08:44:51.669Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699d65a49ab8d23389e3fc81"
+  },
+  "action": "USER_CREATED",
+  "details": "{\"createdUserId\":\"699d65a49ab8d23389e3fc7f\",\"name\":\"john \"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-02-24T08:47:32.332Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-24T08:47:32.332Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699d65d49ab8d23389e3fc8b"
+  },
+  "action": "USER_CREATED",
+  "details": "{\"createdUserId\":\"699d65d39ab8d23389e3fc89\",\"name\":\"Karthik \"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-02-24T08:48:20.026Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-24T08:48:20.026Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699d66059ab8d23389e3fca3"
+  },
+  "action": "USER_CREATED",
+  "details": "{\"createdUserId\":\"699d66049ab8d23389e3fca1\",\"name\":\"arthur\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-02-24T08:49:09.059Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-24T08:49:09.059Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699d6f0d9ab8d23389e3fd1b"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-02-24T09:27:41.822Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-02-24T09:27:41.822Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-24T09:27:41.822Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699d6f559ab8d23389e3fd5b"
+  },
+  "action": "TEAM_CREATED",
+  "details": "{\"teamId\":\"699d6f559ab8d23389e3fd59\",\"name\":\"development \"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-02-24T09:28:53.243Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-24T09:28:53.243Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699e8c46e85049589ffa1c67"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-02-25T05:44:38.054Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904f118775588f4218a24b"
+  },
+  "createdAt": {
+    "$date": "2026-02-25T05:44:38.055Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T05:44:38.055Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699e8c60e85049589ffa1d39"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-02-25T05:45:04.591Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-02-25T05:45:04.592Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T05:45:04.592Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699e8e82e85049589ffa1d5f"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-02-25T05:54:10.194Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-02-25T05:54:10.195Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T05:54:10.195Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699e979ae85049589ffa1d97"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-02-25T06:32:58.348Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-02-25T06:32:58.348Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T06:32:58.348Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699eb674e7e32efb18e104a0"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-02-25T08:44:36.803Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-02-25T08:44:36.807Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T08:44:36.807Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699eb67be7e32efb18e104a6"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-02-25T08:44:43.303Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904f118775588f4218a24b"
+  },
+  "createdAt": {
+    "$date": "2026-02-25T08:44:43.304Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T08:44:43.304Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699eb6c3e7e32efb18e10506"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-02-25T08:45:55.195Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-02-25T08:45:55.196Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T08:45:55.196Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699eba93ea6c48cf77c4e044"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-02-25T09:02:11.317Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-02-25T09:02:11.321Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T09:02:11.321Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699eba99ea6c48cf77c4e048"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-02-25T09:02:17.599Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904f118775588f4218a24b"
+  },
+  "createdAt": {
+    "$date": "2026-02-25T09:02:17.600Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T09:02:17.600Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699ebb62ea6c48cf77c4e0b4"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-02-25T09:05:38.425Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-02-25T09:05:38.426Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T09:05:38.426Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699ebb6eea6c48cf77c4e0b8"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-02-25T09:05:50.854Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-02-25T09:05:50.855Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T09:05:50.855Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699ebe30ea6c48cf77c4e10e"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-02-25T09:17:36.558Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-02-25T09:17:36.559Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T09:17:36.559Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699ebf38ea6c48cf77c4e185"
+  },
+  "action": "GOAL_COMPLETED",
+  "details": "{\"goalId\":\"69929f6919a3495b5d007c63\",\"title\":\"Execution Phase\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-02-25T09:22:00.876Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T09:22:00.876Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699ebf3bea6c48cf77c4e191"
+  },
+  "action": "GOAL_UNCOMPLETED",
+  "details": "{\"goalId\":\"69929f6919a3495b5d007c63\",\"title\":\"Execution Phase\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-02-25T09:22:03.181Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T09:22:03.181Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699eca90c3238df4c96e9020"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-02-25T10:10:24.517Z\",\"device\":\"node\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-02-25T10:10:24.519Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T10:10:24.519Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699ecb0cc3238df4c96e9034"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-02-25T10:12:28.741Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.109.5 Chrome/142.0.7444.265 Electron/39.3.0 Safari/537.36\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904f118775588f4218a24b"
+  },
+  "createdAt": {
+    "$date": "2026-02-25T10:12:28.742Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T10:12:28.742Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699ecb9b17c25f32570b9369"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-02-25T10:14:51.684Z\",\"device\":\"node\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-02-25T10:14:51.685Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T10:14:51.685Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699ecc6b17c25f32570b939f"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-02-25T10:18:19.949Z\",\"device\":\"node\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-02-25T10:18:19.949Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T10:18:19.949Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699ed678d66354eaf40dee83"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-02-25T11:01:12.762Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-02-25T11:01:12.765Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T11:01:12.765Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699ed9a4d66354eaf40df063"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-02-25T11:14:44.220Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-02-25T11:14:44.221Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T11:14:44.221Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699edb40d66354eaf40df1e0"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-02-25T11:21:36.728Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-02-25T11:21:36.730Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T11:21:36.730Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699eeb8cd4d4d963126de845"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-02-25T12:31:08.342Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-02-25T12:31:08.348Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T12:31:08.348Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699eeba1d4d4d963126de84d"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-02-25T12:31:29.709Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-02-25T12:31:29.710Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T12:31:29.710Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699eebb1d4d4d963126de851"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-02-25T12:31:45.890Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-02-25T12:31:45.891Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T12:31:45.891Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699eed0ed4d4d963126de879"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-02-25T12:37:34.689Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-02-25T12:37:34.690Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T12:37:34.690Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699eedd6d4d4d963126de89b"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-02-25T12:40:54.083Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-02-25T12:40:54.084Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T12:40:54.084Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699eee85d4d4d963126de8a7"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-02-25T12:43:49.500Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-02-25T12:43:49.501Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T12:43:49.501Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699eefadd4d4d963126de8cd"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-02-25T12:48:45.247Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-02-25T12:48:45.248Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T12:48:45.248Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699ef07dd4d4d963126de8e0"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-02-25T12:52:13.321Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-02-25T12:52:13.322Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T12:52:13.322Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699ef248d4d4d963126de904"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-02-25T12:59:52.240Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-02-25T12:59:52.241Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T12:59:52.241Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699ef2bbd4d4d963126de912"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-02-25T13:01:47.652Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-02-25T13:01:47.653Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T13:01:47.653Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699f04fc8b9bb958eb30bf62"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-02-25T14:19:40.877Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-02-25T14:19:40.878Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T14:19:40.878Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699f084e8b9bb958eb30bf9a"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-02-25T14:33:50.743Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-02-25T14:33:50.743Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T14:33:50.743Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a7f3f460b9d3d6e889d0a9"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-04T08:57:24.451Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-04T08:57:24.454Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-04T08:57:24.454Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a7f6c960b9d3d6e889d139"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-04T09:09:29.666Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-04T09:09:29.667Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-04T09:09:29.667Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a7f7c960b9d3d6e889d13f"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-04T09:13:45.601Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-04T09:13:45.602Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-04T09:13:45.602Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a809810f298494e855199e"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-04T10:29:21.198Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-04T10:29:21.198Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-04T10:29:21.198Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a8fea9d06629699331a6ec"
+  },
+  "action": "REGISTER",
+  "details": "{\"timestamp\":\"2026-03-05T03:55:21.901Z\",\"method\":\"Self Registration\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69a8fea9d06629699331a6ea"
+  },
+  "createdAt": {
+    "$date": "2026-03-05T03:55:21.903Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-05T03:55:21.903Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a900d2d06629699331a7f4"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-05T04:04:34.312Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904f118775588f4218a24b"
+  },
+  "createdAt": {
+    "$date": "2026-03-05T04:04:34.312Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-05T04:04:34.312Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a90244d06629699331a8a2"
+  },
+  "action": "REGISTER",
+  "details": "{\"timestamp\":\"2026-03-05T04:10:44.737Z\",\"method\":\"Self Registration\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69a90244d06629699331a8a0"
+  },
+  "createdAt": {
+    "$date": "2026-03-05T04:10:44.737Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-05T04:10:44.737Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a90403d06629699331a90e"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-05T04:18:11.945Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-05T04:18:11.945Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-05T04:18:11.945Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a90423d06629699331a964"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-05T04:18:43.176Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-05T04:18:43.176Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-05T04:18:43.176Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a904fcd06629699331aa7b"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-05T04:22:20.915Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-05T04:22:20.916Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-05T04:22:20.916Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69aa4f1caeb767ef741e4dd0"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-06T03:50:52.254Z\",\"device\":\"node\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-06T03:50:52.258Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-06T03:50:52.258Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69aa4f53aeb767ef741e4de6"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-06T03:51:47.009Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904f118775588f4218a24b"
+  },
+  "createdAt": {
+    "$date": "2026-03-06T03:51:47.010Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-06T03:51:47.010Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69aa5002aeb767ef741e4ea6"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-06T03:54:42.818Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-06T03:54:42.819Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-06T03:54:42.819Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69aa5f46aeb767ef741e5279"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-06T04:59:50.809Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-06T04:59:50.811Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-06T04:59:50.811Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69aa6090aeb767ef741e52f8"
+  },
+  "action": "GOAL_COMPLETED",
+  "details": "{\"goalId\":\"69929f6919a3495b5d007c63\",\"title\":\"Execution Phase\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-06T05:05:20.638Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-06T05:05:20.638Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69aa6092aeb767ef741e5304"
+  },
+  "action": "GOAL_UNCOMPLETED",
+  "details": "{\"goalId\":\"69929f6919a3495b5d007c63\",\"title\":\"Execution Phase\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-06T05:05:22.958Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-06T05:05:22.958Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69aa6095aeb767ef741e5310"
+  },
+  "action": "GOAL_UNCOMPLETED",
+  "details": "{\"goalId\":\"69929f6919a3495b5d007c62\",\"title\":\"Initial Planning\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-06T05:05:25.204Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-06T05:05:25.204Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69aa71942e117faaf77084ef"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-06T06:17:56.673Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-06T06:17:56.675Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-06T06:17:56.675Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69aa72272e117faaf77085f1"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-06T06:20:23.838Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904f118775588f4218a24b"
+  },
+  "createdAt": {
+    "$date": "2026-03-06T06:20:23.839Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-06T06:20:23.839Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69aa727c2e117faaf77086a4"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-06T06:21:48.549Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-06T06:21:48.550Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-06T06:21:48.550Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69aaa7c22ff8581463920feb"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-06T10:09:06.598Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-06T10:09:06.599Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-06T10:09:06.599Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69aaa8392ff8581463921039"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-06T10:11:05.489Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904f118775588f4218a24b"
+  },
+  "createdAt": {
+    "$date": "2026-03-06T10:11:05.489Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-06T10:11:05.489Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69aaa8432ff8581463921073"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-06T10:11:15.691Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904f118775588f4218a24b"
+  },
+  "createdAt": {
+    "$date": "2026-03-06T10:11:15.692Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-06T10:11:15.692Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69aaa8472ff8581463921077"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-06T10:11:19.470Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-06T10:11:19.470Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-06T10:11:19.470Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69aaa8a42ff858146392117e"
+  },
+  "action": "REGISTER",
+  "details": "{\"timestamp\":\"2026-03-06T10:12:52.829Z\",\"method\":\"Self Registration\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69aaa8a42ff858146392117c"
+  },
+  "createdAt": {
+    "$date": "2026-03-06T10:12:52.829Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-06T10:12:52.829Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69aba132d496821e7a0ecf4b"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-07T03:53:22.415Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-07T03:53:22.417Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-07T03:53:22.417Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69aba532d496821e7a0ed04b"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-07T04:10:26.116Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-07T04:10:26.117Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-07T04:10:26.117Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69aba99dd496821e7a0ed11b"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-07T04:29:17.616Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-07T04:29:17.616Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-07T04:29:17.616Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69abaaabd496821e7a0ed1b2"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-07T04:33:47.248Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-07T04:33:47.249Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-07T04:33:47.249Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69af916c81ead537184121fe"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-10T03:35:08.730Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-10T03:35:08.731Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-10T03:35:08.731Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69af931c81ead5371841238a"
+  },
+  "action": "USER_CREATED",
+  "details": "{\"createdUserId\":\"69af931c81ead53718412388\",\"name\":\"Ellie\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-10T03:42:20.265Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-10T03:42:20.265Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69af988f81ead53718412589"
+  },
+  "action": "TASK_CREATED",
+  "details": "{\"taskId\":\"69af988f81ead53718412585\",\"title\":\"clock design\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-10T04:05:35.530Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-10T04:05:35.530Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69af9edcf8cb0b65ce88917e"
+  },
+  "action": "TASK_CREATED",
+  "details": "{\"taskId\":\"69af9edcf8cb0b65ce889176\",\"title\":\"simple login page for library application\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-10T04:32:28.384Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-10T04:32:28.384Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69af9ef3f8cb0b65ce88918f"
+  },
+  "action": "GOAL_COMPLETED",
+  "details": "{\"goalId\":\"69af9edcf8cb0b65ce88917a\",\"title\":\"Execution Phase\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-10T04:32:51.594Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-10T04:32:51.594Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69af9ef6f8cb0b65ce88919f"
+  },
+  "action": "GOAL_UNCOMPLETED",
+  "details": "{\"goalId\":\"69af9edcf8cb0b65ce88917a\",\"title\":\"Execution Phase\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-10T04:32:54.598Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-10T04:32:54.598Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69afa128f8cb0b65ce889210"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-10T04:42:16.571Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-10T04:42:16.572Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-10T04:42:16.572Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69afa138f8cb0b65ce889277"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-10T04:42:32.588Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "699d66049ab8d23389e3fca1"
+  },
+  "createdAt": {
+    "$date": "2026-03-10T04:42:32.589Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-10T04:42:32.589Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69afa145f8cb0b65ce8892f0"
+  },
+  "action": "GOAL_COMPLETED",
+  "details": "{\"goalId\":\"69af9edcf8cb0b65ce889179\",\"title\":\"Initial Planning\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "699d66049ab8d23389e3fca1"
+  },
+  "createdAt": {
+    "$date": "2026-03-10T04:42:45.956Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-10T04:42:45.956Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69afa147f8cb0b65ce889305"
+  },
+  "action": "GOAL_COMPLETED",
+  "details": "{\"goalId\":\"69af9edcf8cb0b65ce88917a\",\"title\":\"Execution Phase\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "699d66049ab8d23389e3fca1"
+  },
+  "createdAt": {
+    "$date": "2026-03-10T04:42:47.071Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-10T04:42:47.071Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69afa14ef8cb0b65ce88932d"
+  },
+  "action": "TASK_COMPLETED",
+  "details": "{\"taskId\":\"69af9edcf8cb0b65ce889176\",\"title\":\"simple login page for library application\",\"method\":\"auto-goal-complete\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "699d66049ab8d23389e3fca1"
+  },
+  "createdAt": {
+    "$date": "2026-03-10T04:42:54.453Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-10T04:42:54.453Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69afa14ef8cb0b65ce889330"
+  },
+  "action": "GOAL_COMPLETED",
+  "details": "{\"goalId\":\"69af9edcf8cb0b65ce88917b\",\"title\":\"Final Review\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "699d66049ab8d23389e3fca1"
+  },
+  "createdAt": {
+    "$date": "2026-03-10T04:42:54.455Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-10T04:42:54.455Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69afa168f8cb0b65ce88933e"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-10T04:43:20.114Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-10T04:43:20.115Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-10T04:43:20.115Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69afa71cf8cb0b65ce8895a8"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-10T05:07:40.061Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-10T05:07:40.063Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-10T05:07:40.063Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69afa87ff8cb0b65ce8895bb"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-10T05:13:35.462Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-10T05:13:35.463Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-10T05:13:35.463Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69afaa19f8cb0b65ce88965d"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-10T05:20:25.447Z\",\"device\":\"node-fetch/1.0 (+https://github.com/bitinn/node-fetch)\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-10T05:20:25.448Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-10T05:20:25.448Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69afaa5790641e447c3221d7"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-10T05:21:27.130Z\",\"device\":\"node-fetch/1.0 (+https://github.com/bitinn/node-fetch)\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-10T05:21:27.131Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-10T05:21:27.131Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69afad275798cd5e2f247765"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-10T05:33:27.852Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-10T05:33:27.853Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-10T05:33:27.853Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69afad5a5798cd5e2f247889"
+  },
+  "action": "TASK_COMPLETED",
+  "details": "{\"taskId\":\"69af9afb81ead537184125d4\",\"title\":\"simple static webpage login design\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-10T05:34:18.506Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-10T05:34:18.506Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69afade95798cd5e2f2478c8"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-10T05:36:41.245Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "699d66049ab8d23389e3fca1"
+  },
+  "createdAt": {
+    "$date": "2026-03-10T05:36:41.245Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-10T05:36:41.245Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69afae395798cd5e2f247a2a"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-10T05:38:01.556Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-10T05:38:01.557Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-10T05:38:01.557Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69afae3c5798cd5e2f247a2e"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-10T05:38:04.816Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-10T05:38:04.817Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-10T05:38:04.817Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69afb0545798cd5e2f247bf4"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-10T05:47:00.723Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-10T05:47:00.723Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-10T05:47:00.723Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69afe2406ed90f6f4bfa9f67"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-10T09:20:00.052Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-10T09:20:00.053Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-10T09:20:00.053Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69afe2446ed90f6f4bfa9f6b"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-10T09:20:04.662Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-10T09:20:04.662Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-10T09:20:04.662Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69afe25d6ed90f6f4bfaa07d"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-10T09:20:29.954Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "699d66049ab8d23389e3fca1"
+  },
+  "createdAt": {
+    "$date": "2026-03-10T09:20:29.954Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-10T09:20:29.954Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69afe2fe6ed90f6f4bfaa37e"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-10T09:23:10.029Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "699d66049ab8d23389e3fca1"
+  },
+  "createdAt": {
+    "$date": "2026-03-10T09:23:10.030Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-10T09:23:10.030Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69afe3096ed90f6f4bfaa3f8"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-10T09:23:21.194Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-10T09:23:21.195Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-10T09:23:21.195Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69afe3306ed90f6f4bfaa4a8"
+  },
+  "action": "GOAL_UNCOMPLETED",
+  "details": "{\"goalId\":\"69af9edcf8cb0b65ce88917a\",\"title\":\"Execution Phase\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-10T09:24:00.503Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-10T09:24:00.503Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69afe33e6ed90f6f4bfaa4cf"
+  },
+  "action": "TASK_COMPLETED",
+  "details": "{\"taskId\":\"69af9edcf8cb0b65ce889176\",\"title\":\"simple login page for library application\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-10T09:24:14.945Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-10T09:24:14.945Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69afe37c6ed90f6f4bfaa54b"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-10T09:25:16.748Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "699d66049ab8d23389e3fca1"
+  },
+  "createdAt": {
+    "$date": "2026-03-10T09:25:16.748Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-10T09:25:16.748Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69afe3a86ed90f6f4bfaa60d"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-10T09:26:00.806Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "699d66049ab8d23389e3fca1"
+  },
+  "createdAt": {
+    "$date": "2026-03-10T09:26:00.806Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-10T09:26:00.806Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69afe3b86ed90f6f4bfaa6a1"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-10T09:26:16.514Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-10T09:26:16.514Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-10T09:26:16.514Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69afe3ee6ed90f6f4bfaa714"
+  },
+  "action": "ADMIN_DISABLE_ACCOUNT",
+  "details": "{\"targetUserId\":\"69aaa8a42ff858146392117c\",\"targetUserName\":\"Cheran\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-10T09:27:10.236Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-10T09:27:10.236Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69afe3f66ed90f6f4bfaa721"
+  },
+  "action": "ADMIN_ENABLE_ACCOUNT",
+  "details": "{\"targetUserId\":\"69aaa8a42ff858146392117c\",\"targetUserName\":\"Cheran\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-10T09:27:18.543Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-10T09:27:18.543Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69afe4076ed90f6f4bfaa72e"
+  },
+  "action": "ADMIN_RESET_PASSWORD",
+  "details": "{\"targetUserId\":\"69aaa8a42ff858146392117c\",\"targetUserName\":\"Cheran\",\"mode\":\"temporary\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-10T09:27:35.511Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-10T09:27:35.511Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69afe40f6ed90f6f4bfaa733"
+  },
+  "action": "ADMIN_RESET_PASSWORD",
+  "details": "{\"targetUserId\":\"69aaa8a42ff858146392117c\",\"targetUserName\":\"Cheran\",\"mode\":\"email\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-10T09:27:43.084Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-10T09:27:43.084Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b0c822a7607a224c501ce0"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-11T01:40:50.848Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-11T01:40:50.850Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-11T01:40:50.850Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b0d195a7607a224c501e64"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-11T02:21:09.053Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-11T02:21:09.053Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-11T02:21:09.053Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b0d42ba7607a224c501ffc"
+  },
+  "action": "ADMIN_DISABLE_ACCOUNT",
+  "details": "{\"targetUserId\":\"699d65d39ab8d23389e3fc89\",\"targetUserName\":\"Karthik \"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-11T02:32:11.240Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-11T02:32:11.240Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b0d431a7607a224c502010"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-11T02:32:17.705Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-11T02:32:17.706Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-11T02:32:17.706Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b0d4d9a7607a224c5020d2"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-11T02:35:05.917Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-11T02:35:05.918Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-11T02:35:05.918Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b0dfea26c46a2dd0350dd2"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-11T03:22:18.937Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-11T03:22:18.938Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-11T03:22:18.938Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b0e03c26c46a2dd0350ee2"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-11T03:23:40.000Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-11T03:23:40.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-11T03:23:40.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b0e04026c46a2dd0350ee6"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-11T03:23:44.256Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-11T03:23:44.257Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-11T03:23:44.257Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b0e04626c46a2dd0350eea"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-11T03:23:50.875Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-11T03:23:50.875Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-11T03:23:50.875Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b0e13a26c46a2dd035103b"
+  },
+  "action": "GOAL_COMPLETED",
+  "details": "{\"goalId\":\"69af9edcf8cb0b65ce88917a\",\"title\":\"Execution Phase\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-11T03:27:54.530Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-11T03:27:54.530Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b0e70326c46a2dd0351079"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-11T03:52:35.400Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-11T03:52:35.401Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-11T03:52:35.401Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b0e78926c46a2dd035113d"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-11T03:54:49.646Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "699d66049ab8d23389e3fca1"
+  },
+  "createdAt": {
+    "$date": "2026-03-11T03:54:49.646Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-11T03:54:49.646Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b0e78e26c46a2dd0351146"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-11T03:54:54.218Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "699d66049ab8d23389e3fca1"
+  },
+  "createdAt": {
+    "$date": "2026-03-11T03:54:54.218Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-11T03:54:54.218Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b0f00cb4f8e4a80bd8fa73"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-11T04:31:08.218Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "699d66049ab8d23389e3fca1"
+  },
+  "createdAt": {
+    "$date": "2026-03-11T04:31:08.219Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-11T04:31:08.219Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b0f011b4f8e4a80bd8fa77"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-11T04:31:13.135Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-11T04:31:13.136Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-11T04:31:13.136Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b103eab4f8e4a80bd8fbb6"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-11T05:55:54.416Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-11T05:55:54.417Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-11T05:55:54.417Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b13d9301de26a63735197a"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-11T10:01:55.907Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-11T10:01:55.908Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-11T10:01:55.908Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b14291b513690161728378"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-11T10:23:13.383Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-11T10:23:13.384Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-11T10:23:13.384Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b23d8324f811a26bd33fca"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-12T04:13:55.456Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-12T04:13:55.459Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-12T04:13:55.459Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b23d8824f811a26bd33fce"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-12T04:14:00.454Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-12T04:14:00.455Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-12T04:14:00.455Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b23d9924f811a26bd3404f"
+  },
+  "action": "TASK_COMPLETED",
+  "details": "{\"taskId\":\"69af9edcf8cb0b65ce889176\",\"title\":\"simple login page for library application\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-12T04:14:17.881Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-12T04:14:17.881Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b23da324f811a26bd34053"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-12T04:14:27.956Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-12T04:14:27.957Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-12T04:14:27.957Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b23dc824f811a26bd340c1"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-12T04:15:04.834Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-12T04:15:04.835Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-12T04:15:04.835Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b23dc924f811a26bd34122"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-12T04:15:05.673Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "699d66049ab8d23389e3fca1"
+  },
+  "createdAt": {
+    "$date": "2026-03-12T04:15:05.676Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-12T04:15:05.676Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b23ddc24f811a26bd341f3"
+  },
+  "action": "ADMIN_RESET_PASSWORD",
+  "details": "{\"targetUserId\":\"69aaa8a42ff858146392117c\",\"targetUserName\":\"Cheran\",\"mode\":\"manual\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-12T04:15:24.752Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-12T04:15:24.752Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b23df024f811a26bd34266"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-12T04:15:44.220Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69aaa8a42ff858146392117c"
+  },
+  "createdAt": {
+    "$date": "2026-03-12T04:15:44.221Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-12T04:15:44.221Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b23f2a24f811a26bd343bd"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-12T04:20:58.662Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-12T04:20:58.663Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-12T04:20:58.663Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b23fb024f811a26bd3451e"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-12T04:23:12.944Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "699d66049ab8d23389e3fca1"
+  },
+  "createdAt": {
+    "$date": "2026-03-12T04:23:12.945Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-12T04:23:12.945Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b240bf24f811a26bd34761"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-12T04:27:43.401Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904f118775588f4218a24b"
+  },
+  "createdAt": {
+    "$date": "2026-03-12T04:27:43.402Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-12T04:27:43.402Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b2419f24f811a26bd3486b"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-12T04:31:27.867Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69aaa8a42ff858146392117c"
+  },
+  "createdAt": {
+    "$date": "2026-03-12T04:31:27.868Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-12T04:31:27.868Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b241b424f811a26bd348b7"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-12T04:31:48.598Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-12T04:31:48.599Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-12T04:31:48.599Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b241ce24f811a26bd34944"
+  },
+  "action": "TASK_COMPLETED",
+  "details": "{\"taskId\":\"69af988f81ead53718412585\",\"title\":\"clock design\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-12T04:32:14.853Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-12T04:32:14.853Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b241d224f811a26bd3494b"
+  },
+  "action": "TASK_COMPLETED",
+  "details": "{\"taskId\":\"69af9afb81ead537184125d4\",\"title\":\"simple static webpage login design\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-12T04:32:18.066Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-12T04:32:18.066Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b241e824f811a26bd34961"
+  },
+  "action": "TASK_COMPLETED",
+  "details": "{\"taskId\":\"69af955a81ead53718412421\",\"title\":\"create web appplication for clock\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-12T04:32:40.793Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-12T04:32:40.793Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b242dc24f811a26bd3498f"
+  },
+  "action": "TASK_CREATED",
+  "details": "{\"taskId\":\"69b242dc24f811a26bd34988\",\"title\":\"server setup\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-12T04:36:44.446Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-12T04:36:44.446Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b242e524f811a26bd3499c"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-12T04:36:53.511Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904f118775588f4218a24b"
+  },
+  "createdAt": {
+    "$date": "2026-03-12T04:36:53.511Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-12T04:36:53.511Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b242ea24f811a26bd349f2"
+  },
+  "action": "GOAL_COMPLETED",
+  "details": "{\"goalId\":\"69b242dc24f811a26bd3498b\",\"title\":\"Initial Planning\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904f118775588f4218a24b"
+  },
+  "createdAt": {
+    "$date": "2026-03-12T04:36:58.324Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-12T04:36:58.324Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b242f824f811a26bd34a10"
+  },
+  "action": "TASK_COMPLETED",
+  "details": "{\"taskId\":\"69b242dc24f811a26bd34988\",\"title\":\"server setup\",\"method\":\"auto-goal-complete\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904f118775588f4218a24b"
+  },
+  "createdAt": {
+    "$date": "2026-03-12T04:37:12.236Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-12T04:37:12.236Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b242f824f811a26bd34a13"
+  },
+  "action": "GOAL_COMPLETED",
+  "details": "{\"goalId\":\"69b242dc24f811a26bd3498c\",\"title\":\"Execution Phase\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904f118775588f4218a24b"
+  },
+  "createdAt": {
+    "$date": "2026-03-12T04:37:12.240Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-12T04:37:12.240Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b242fa24f811a26bd34a25"
+  },
+  "action": "GOAL_UNCOMPLETED",
+  "details": "{\"goalId\":\"69b242dc24f811a26bd3498c\",\"title\":\"Execution Phase\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904f118775588f4218a24b"
+  },
+  "createdAt": {
+    "$date": "2026-03-12T04:37:14.696Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-12T04:37:14.696Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b2436f24f811a26bd34a75"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-12T04:39:11.740Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-12T04:39:11.741Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-12T04:39:11.741Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b2438924f811a26bd34b30"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-12T04:39:37.799Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "699d66049ab8d23389e3fca1"
+  },
+  "createdAt": {
+    "$date": "2026-03-12T04:39:37.800Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-12T04:39:37.800Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b243bf24f811a26bd34cbb"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-12T04:40:31.644Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904f118775588f4218a24b"
+  },
+  "createdAt": {
+    "$date": "2026-03-12T04:40:31.644Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-12T04:40:31.644Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b2473224f811a26bd350d6"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-12T04:55:14.245Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-12T04:55:14.245Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-12T04:55:14.245Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b248e024f811a26bd3535f"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-12T05:02:24.357Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-12T05:02:24.357Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-12T05:02:24.357Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b24ff024f811a26bd35b6a"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-12T05:32:32.610Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "699d66049ab8d23389e3fca1"
+  },
+  "createdAt": {
+    "$date": "2026-03-12T05:32:32.610Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-12T05:32:32.610Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b2537424f811a26bd35d32"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-12T05:47:32.698Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "699d66049ab8d23389e3fca1"
+  },
+  "createdAt": {
+    "$date": "2026-03-12T05:47:32.698Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-12T05:47:32.698Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b2537824f811a26bd35d36"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-12T05:47:36.425Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-12T05:47:36.425Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-12T05:47:36.425Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b2538524f811a26bd35d94"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-12T05:47:49.976Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-12T05:47:49.977Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-12T05:47:49.977Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b2562124f811a26bd35efc"
+  },
+  "action": "TASK_COMPLETED",
+  "details": "{\"taskId\":\"69af956781ead53718412427\",\"title\":\"create web appplication for clock\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-12T05:58:57.172Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-12T05:58:57.172Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b2566b24f811a26bd35f1f"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-12T06:00:11.512Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904f118775588f4218a24b"
+  },
+  "createdAt": {
+    "$date": "2026-03-12T06:00:11.513Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-12T06:00:11.513Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b2568f24f811a26bd35fed"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-12T06:00:47.170Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904f118775588f4218a24b"
+  },
+  "createdAt": {
+    "$date": "2026-03-12T06:00:47.170Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-12T06:00:47.170Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b256b424f811a26bd360fa"
+  },
+  "action": "TASK_COMPLETED",
+  "details": "{\"taskId\":\"69b242dc24f811a26bd34988\",\"title\":\"server setup\",\"method\":\"auto-goal-complete\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904f118775588f4218a24b"
+  },
+  "createdAt": {
+    "$date": "2026-03-12T06:01:24.370Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-12T06:01:24.370Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b256b424f811a26bd360fd"
+  },
+  "action": "GOAL_COMPLETED",
+  "details": "{\"goalId\":\"69b242dc24f811a26bd3498c\",\"title\":\"Execution Phase\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904f118775588f4218a24b"
+  },
+  "createdAt": {
+    "$date": "2026-03-12T06:01:24.372Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-12T06:01:24.372Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b25ca824f811a26bd36342"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-12T06:26:48.904Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-12T06:26:48.905Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-12T06:26:48.905Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b273f282a75219bd78173d"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-12T08:06:10.711Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-12T08:06:10.713Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-12T08:06:10.713Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b273f782a75219bd781741"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-12T08:06:15.629Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-12T08:06:15.630Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-12T08:06:15.630Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b2741382a75219bd781901"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-12T08:06:43.367Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-12T08:06:43.368Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-12T08:06:43.368Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b274e282a75219bd781905"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-12T08:10:10.285Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-12T08:10:10.285Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-12T08:10:10.285Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b274e882a75219bd781909"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-12T08:10:16.852Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-12T08:10:16.852Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-12T08:10:16.852Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b275bc82a75219bd7819c9"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-12T08:13:48.962Z\",\"device\":\"node\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-12T08:13:48.962Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-12T08:13:48.962Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b275da82a75219bd7819e1"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-12T08:14:18.580Z\",\"device\":\"node\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-12T08:14:18.581Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-12T08:14:18.581Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b27c39230611bf53fc41fe"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-12T08:41:29.028Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-12T08:41:29.031Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-12T08:41:29.031Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b281cc230611bf53fc4474"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-12T09:05:16.147Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-12T09:05:16.148Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-12T09:05:16.148Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b28247230611bf53fc4789"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-12T09:07:19.470Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-12T09:07:19.471Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-12T09:07:19.471Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b28410230611bf53fc487c"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-12T09:14:56.004Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69aaa8a42ff858146392117c"
+  },
+  "createdAt": {
+    "$date": "2026-03-12T09:14:56.005Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-12T09:14:56.005Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b28450230611bf53fc48ca"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-12T09:16:00.455Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-12T09:16:00.456Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-12T09:16:00.456Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b2f2990660bdf83ce50827"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-12T17:06:33.994Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-12T17:06:33.995Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-12T17:06:33.995Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b2f5380660bdf83ce50b11"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-12T17:17:44.212Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-12T17:17:44.212Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-12T17:17:44.212Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b2f9c90660bdf83ce50ca5"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-12T17:37:13.810Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-12T17:37:13.812Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-12T17:37:13.812Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b2f9f90660bdf83ce50ca9"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-12T17:38:01.110Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-12T17:38:01.112Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-12T17:38:01.112Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b2fa080660bdf83ce50caf"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-12T17:38:16.918Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-12T17:38:16.918Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-12T17:38:16.918Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b4e22946cf5cc9e961f61b"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-14T04:20:57.176Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-14T04:20:57.179Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-14T04:20:57.179Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b4e27946cf5cc9e961f6c3"
+  },
+  "action": "TASK_COMPLETED",
+  "details": "{\"taskId\":\"69af955a81ead53718412421\",\"title\":\"create web appplication for clock\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-14T04:22:17.759Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-14T04:22:17.759Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b4e2cb46cf5cc9e961f70f"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-14T04:23:39.066Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-14T04:23:39.066Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-14T04:23:39.066Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b4e2d246cf5cc9e961f718"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-14T04:23:46.548Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904f118775588f4218a24b"
+  },
+  "createdAt": {
+    "$date": "2026-03-14T04:23:46.549Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-14T04:23:46.549Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b4e31b46cf5cc9e961f88e"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-14T04:24:59.731Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904f118775588f4218a24b"
+  },
+  "createdAt": {
+    "$date": "2026-03-14T04:24:59.731Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-14T04:24:59.731Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b4e32146cf5cc9e961f892"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-14T04:25:05.280Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-14T04:25:05.280Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-14T04:25:05.280Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b4e41b46cf5cc9e961f980"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-14T04:29:15.632Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-14T04:29:15.632Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-14T04:29:15.632Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b4e4c346cf5cc9e961fa32"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-14T04:32:03.885Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-14T04:32:03.885Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-14T04:32:03.885Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b4e4e446cf5cc9e961fadc"
+  },
+  "action": "TASK_COMPLETED",
+  "details": "{\"taskId\":\"69af956781ead53718412427\",\"title\":\"create web appplication for clock\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-14T04:32:36.050Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-14T04:32:36.050Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b4e4ef46cf5cc9e961faef"
+  },
+  "action": "TASK_COMPLETED",
+  "details": "{\"taskId\":\"69b242dc24f811a26bd34988\",\"title\":\"server setup\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-14T04:32:47.338Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-14T04:32:47.338Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b4ed2746cf5cc9e961fb5f"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-14T05:07:51.527Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-14T05:07:51.528Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-14T05:07:51.528Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b4eddd46cf5cc9e961fc21"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-14T05:10:53.064Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-14T05:10:53.065Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-14T05:10:53.065Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b4eecc46cf5cc9e961fc87"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-14T05:14:52.256Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-14T05:14:52.257Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-14T05:14:52.257Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b793510418c68e52d8767c"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-16T05:21:21.253Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-16T05:21:21.256Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-16T05:21:21.256Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b793570418c68e52d87680"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-16T05:21:27.854Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-16T05:21:27.855Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-16T05:21:27.855Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b793fa0418c68e52d87684"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-16T05:24:10.501Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-16T05:24:10.503Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-16T05:24:10.503Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b794b00418c68e52d8768d"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-16T05:27:12.540Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904f118775588f4218a24b"
+  },
+  "createdAt": {
+    "$date": "2026-03-16T05:27:12.541Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-16T05:27:12.541Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b794f00418c68e52d87696"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-16T05:28:16.808Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904f118775588f4218a24b"
+  },
+  "createdAt": {
+    "$date": "2026-03-16T05:28:16.809Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-16T05:28:16.809Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b7971fec725f1175107dee"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-16T05:37:35.461Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904f118775588f4218a24b"
+  },
+  "createdAt": {
+    "$date": "2026-03-16T05:37:35.465Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-16T05:37:35.465Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b7974bec725f1175107df2"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-16T05:38:19.475Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-16T05:38:19.476Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-16T05:38:19.476Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b797668cff9b5ba4bb36a7"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-16T05:38:46.293Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-16T05:38:46.296Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-16T05:38:46.296Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b7a2ff49e6e51567ae87a2"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-16T06:28:15.464Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0\"}",
+  "ipAddress": "::ffff:10.130.22.251",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-16T06:28:15.465Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-16T06:28:15.465Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b8d70595d49ed19855b148"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-17T04:22:29.233Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-17T04:22:29.234Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-17T04:22:29.234Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b8d74595d49ed19855b1bd"
+  },
+  "action": "TASK_COMPLETED",
+  "details": "{\"taskId\":\"69af988f81ead53718412585\",\"title\":\"clock design\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-17T04:23:33.828Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-17T04:23:33.828Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b8d74f95d49ed19855b1d5"
+  },
+  "action": "TASK_COMPLETED",
+  "details": "{\"taskId\":\"69af9edcf8cb0b65ce889176\",\"title\":\"simple login page for library application\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-17T04:23:43.792Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-17T04:23:43.792Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b8d77e95d49ed19855b1e3"
+  },
+  "action": "LOGIN",
+  "details": "{\"timestamp\":\"2026-03-17T04:24:30.577Z\",\"device\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"}",
+  "ipAddress": "::1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-17T04:24:30.578Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-17T04:24:30.578Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b8f154129f65d6454a8d63"
+  },
+  "action": "TASK_COMPLETED",
+  "details": "{\"taskId\":\"69af955a81ead53718412421\",\"title\":\"create web appplication for clock\"}",
+  "ipAddress": "10.40.29.34",
+  "createdAt": {
+    "$date": "2026-03-17T06:14:44.394Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-17T06:14:44.394Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c3914abb9728599d99d154"
+  },
+  "action": "GOAL_UNCOMPLETED",
+  "details": "{\"goalId\":\"69b242dc24f811a26bd3498c\",\"title\":\"Execution Phase\"}",
+  "ipAddress": "127.0.0.1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-25T07:39:54.050Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T07:39:54.050Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c39162bb9728599d99d16c"
+  },
+  "action": "GOAL_UNCOMPLETED",
+  "details": "{\"goalId\":\"69b242dc24f811a26bd3498b\",\"title\":\"Initial Planning\"}",
+  "ipAddress": "127.0.0.1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-25T07:40:18.121Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T07:40:18.121Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c39165bb9728599d99d17d"
+  },
+  "action": "GOAL_COMPLETED",
+  "details": "{\"goalId\":\"69b242dc24f811a26bd3498b\",\"title\":\"Initial Planning\"}",
+  "ipAddress": "127.0.0.1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-25T07:40:21.013Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T07:40:21.013Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c3917ebb9728599d99d1c2"
+  },
+  "action": "TASK_COMPLETED",
+  "details": "{\"taskId\":\"69b242dc24f811a26bd34988\",\"title\":\"server setup\"}",
+  "ipAddress": "127.0.0.1",
+  "user": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "createdAt": {
+    "$date": "2026-03-25T07:40:46.948Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T07:40:46.948Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69d0d9a10cf8cc1185fe021b"
+  },
+  "action": "TASK_COMPLETED",
+  "details": "{\"taskId\":\"69d0cf710cf8cc1185fdfa16\",\"title\":\"server\"}",
+  "ipAddress": "10.40.24.113",
+  "user": {
+    "$oid": "69af931c81ead53718412388"
+  },
+  "createdAt": {
+    "$date": "2026-04-04T09:28:01.660Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-04T09:28:01.660Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69d0d9d50cf8cc1185fe0243"
+  },
+  "action": "ADMIN_RESET_PASSWORD",
+  "details": "{\"targetUserId\":\"69aaa8a42ff858146392117c\",\"targetUserName\":\"Cheran\",\"mode\":\"manual\"}",
+  "ipAddress": "10.40.24.113",
+  "user": {
+    "$oid": "69af931c81ead53718412388"
+  },
+  "createdAt": {
+    "$date": "2026-04-04T09:28:53.887Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-04T09:28:53.887Z"
+  },
+  "__v": 0
+}]

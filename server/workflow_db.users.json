@@ -1,0 +1,501 @@
+[{
+  "_id": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "name": "Chandru B  Admin",
+  "email": "chandru.it23@bitsathy.ac.in",
+  "password": "$2b$10$OZOpjkxkgYfpbU8TOfW5BOioXCRhhA0CQX7GOPk/tHkZIDPhY391G",
+  "role": "admin",
+  "status": "active",
+  "position": "System Administrator",
+  "yearsOfExperience": 12,
+  "avatar": "http://localhost:3000/uploads/avatar-69904e16508281520d683c8f-1773194694589.png",
+  "theme": "light",
+  "accessibilityMode": "none",
+  "mustChangePassword": false,
+  "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0",
+  "createdAt": {
+    "$date": "2026-02-14T10:27:34.436Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T08:17:49.100Z"
+  },
+  "__v": 2,
+  "lastLogin": {
+    "$date": "2026-04-06T08:17:49.098Z"
+  },
+  "rewardHistory": [],
+  "totalRewardPoints": 0,
+  "workloadScore": 0,
+  "availability": true,
+  "jobRole": "",
+  "performanceScore": 0,
+  "activeSessions": [],
+  "bio": "",
+  "github": "",
+  "linkedin": "",
+  "portfolio": ""
+},
+{
+  "_id": {
+    "$oid": "69904f118775588f4218a24b"
+  },
+  "name": "kiran",
+  "email": "kiran.it23@bitsathy.ac.in",
+  "password": "$2b$10$XNmtUtDZshtuKVmSFuW4yu3zUZPlnw0./s7W0xj.ie6P4ZWJL/vgK",
+  "role": "normal",
+  "status": "active",
+  "position": "cycbersecurity specialist ",
+  "yearsOfExperience": 12,
+  "age": 13,
+  "avatar": null,
+  "theme": "light",
+  "accessibilityMode": "none",
+  "mustChangePassword": true,
+  "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+  "createdAt": {
+    "$date": "2026-02-14T10:31:45.513Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T10:32:30.446Z"
+  },
+  "__v": 2,
+  "lastLogin": {
+    "$date": "2026-03-16T05:37:35.442Z"
+  },
+  "rewardHistory": [
+    {
+      "taskId": {
+        "$oid": "69b242dc24f811a26bd34988"
+      },
+      "taskTitle": "Goal: Initial Planning",
+      "pointsAwarded": 50,
+      "awardedBy": {
+        "$oid": "69904f118775588f4218a24b"
+      },
+      "awardedAt": {
+        "$date": "2026-03-12T04:36:58.314Z"
+      },
+      "_id": {
+        "$oid": "69b242ea24f811a26bd349ee"
+      }
+    },
+    {
+      "taskId": {
+        "$oid": "69b242dc24f811a26bd34988"
+      },
+      "taskTitle": "Goal: Execution Phase",
+      "pointsAwarded": 50,
+      "awardedBy": {
+        "$oid": "69904f118775588f4218a24b"
+      },
+      "awardedAt": {
+        "$date": "2026-03-12T04:37:12.230Z"
+      },
+      "_id": {
+        "$oid": "69b242f824f811a26bd34a0c"
+      }
+    },
+    {
+      "taskId": {
+        "$oid": "69b242dc24f811a26bd34988"
+      },
+      "taskTitle": "Goal: Execution Phase",
+      "pointsAwarded": 50,
+      "awardedBy": {
+        "$oid": "69904e16508281520d683c8f"
+      },
+      "awardedAt": {
+        "$date": "2026-03-12T04:56:24.331Z"
+      },
+      "_id": {
+        "$oid": "69b2477824f811a26bd35200"
+      }
+    },
+    {
+      "taskId": {
+        "$oid": "69b242dc24f811a26bd34988"
+      },
+      "taskTitle": "Goal: Execution Phase",
+      "pointsAwarded": 50,
+      "awardedBy": {
+        "$oid": "69904e16508281520d683c8f"
+      },
+      "awardedAt": {
+        "$date": "2026-03-12T04:56:26.143Z"
+      },
+      "_id": {
+        "$oid": "69b2477a24f811a26bd3520a"
+      }
+    },
+    {
+      "taskId": {
+        "$oid": "69b242dc24f811a26bd34988"
+      },
+      "taskTitle": "Goal: Execution Phase",
+      "pointsAwarded": 50,
+      "awardedBy": {
+        "$oid": "69904f118775588f4218a24b"
+      },
+      "awardedAt": {
+        "$date": "2026-03-12T06:01:24.367Z"
+      },
+      "_id": {
+        "$oid": "69b256b424f811a26bd360f3"
+      }
+    }
+  ],
+  "totalRewardPoints": 250,
+  "workloadScore": 10,
+  "availability": true,
+  "jobRole": "",
+  "performanceScore": 0,
+  "activeSessions": []
+},
+{
+  "_id": {
+    "$oid": "699d65a49ab8d23389e3fc7f"
+  },
+  "name": "john ",
+  "email": "john@gmail.com",
+  "password": "$2b$10$pZJroAm3VNVpfh.7b3Bck.1eQaufj4OLVqX54Czl.aVyAhRyyY19K",
+  "role": "normal",
+  "status": "active",
+  "position": "devop",
+  "yearsOfExperience": 10,
+  "age": 26,
+  "avatar": null,
+  "teamId": null,
+  "workloadScore": 0,
+  "theme": "light",
+  "accessibilityMode": "none",
+  "mustChangePassword": true,
+  "deviceInfo": "Unknown Device",
+  "totalRewardPoints": 0,
+  "rewardHistory": [],
+  "createdAt": {
+    "$date": "2026-02-24T08:47:32.234Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-24T08:47:32.234Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699d65d39ab8d23389e3fc89"
+  },
+  "name": "Karthik ",
+  "email": "karthik@gmail.com",
+  "password": "$2b$10$ucnkZd2hqUlh/pycDfUqfOfQGBbWWNKXhcr8o3YmVYB9NyCwlVHD2",
+  "role": "normal",
+  "status": "disabled",
+  "position": "ci/cd",
+  "yearsOfExperience": 6,
+  "age": 24,
+  "avatar": null,
+  "workloadScore": 0,
+  "theme": "light",
+  "accessibilityMode": "none",
+  "mustChangePassword": true,
+  "deviceInfo": "Unknown Device",
+  "totalRewardPoints": 0,
+  "rewardHistory": [],
+  "createdAt": {
+    "$date": "2026-02-24T08:48:19.965Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-11T02:32:11.228Z"
+  },
+  "__v": 1,
+  "activeSessions": [],
+  "availability": true,
+  "jobRole": "",
+  "performanceScore": 0
+},
+{
+  "_id": {
+    "$oid": "699d66049ab8d23389e3fca1"
+  },
+  "name": "arthur",
+  "email": "arthur@gmail.com",
+  "password": "$2b$10$tSUyLpPP3IjiXN8KkpZUk.7.1Zcne/8Heq2GSH0GnSbOlclv3eN9W",
+  "role": "normal",
+  "status": "active",
+  "position": "developer",
+  "yearsOfExperience": 6,
+  "age": 24,
+  "avatar": null,
+  "workloadScore": 0,
+  "theme": "light",
+  "accessibilityMode": "none",
+  "mustChangePassword": true,
+  "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+  "totalRewardPoints": 250,
+  "rewardHistory": [
+    {
+      "taskId": {
+        "$oid": "69af9edcf8cb0b65ce889176"
+      },
+      "taskTitle": "Goal: Execution Phase",
+      "pointsAwarded": 50,
+      "awardedBy": {
+        "$oid": "69904e16508281520d683c8f"
+      },
+      "awardedAt": {
+        "$date": "2026-03-10T04:32:51.586Z"
+      },
+      "_id": {
+        "$oid": "69af9ef3f8cb0b65ce88918b"
+      }
+    },
+    {
+      "taskId": {
+        "$oid": "69af9edcf8cb0b65ce889176"
+      },
+      "taskTitle": "Goal: Initial Planning",
+      "pointsAwarded": 50,
+      "awardedBy": {
+        "$oid": "699d66049ab8d23389e3fca1"
+      },
+      "awardedAt": {
+        "$date": "2026-03-10T04:42:45.950Z"
+      },
+      "_id": {
+        "$oid": "69afa145f8cb0b65ce8892ec"
+      }
+    },
+    {
+      "taskId": {
+        "$oid": "69af9edcf8cb0b65ce889176"
+      },
+      "taskTitle": "Goal: Execution Phase",
+      "pointsAwarded": 50,
+      "awardedBy": {
+        "$oid": "699d66049ab8d23389e3fca1"
+      },
+      "awardedAt": {
+        "$date": "2026-03-10T04:42:47.069Z"
+      },
+      "_id": {
+        "$oid": "69afa147f8cb0b65ce889300"
+      }
+    },
+    {
+      "taskId": {
+        "$oid": "69af9edcf8cb0b65ce889176"
+      },
+      "taskTitle": "Goal: Final Review",
+      "pointsAwarded": 50,
+      "awardedBy": {
+        "$oid": "699d66049ab8d23389e3fca1"
+      },
+      "awardedAt": {
+        "$date": "2026-03-10T04:42:54.449Z"
+      },
+      "_id": {
+        "$oid": "69afa14ef8cb0b65ce889327"
+      }
+    },
+    {
+      "taskId": {
+        "$oid": "69af9edcf8cb0b65ce889176"
+      },
+      "taskTitle": "Goal: Execution Phase",
+      "pointsAwarded": 50,
+      "awardedBy": {
+        "$oid": "69904e16508281520d683c8f"
+      },
+      "awardedAt": {
+        "$date": "2026-03-11T03:27:54.513Z"
+      },
+      "_id": {
+        "$oid": "69b0e13a26c46a2dd0351034"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2026-02-24T08:49:08.996Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-17T04:23:43.786Z"
+  },
+  "__v": 1,
+  "activeSessions": [],
+  "availability": true,
+  "jobRole": "",
+  "lastLogin": {
+    "$date": "2026-03-12T05:47:32.694Z"
+  },
+  "performanceScore": 0
+},
+{
+  "_id": {
+    "$oid": "69a8fea9d06629699331a6ea"
+  },
+  "name": "Tester User",
+  "email": "tester@test.com",
+  "password": "$2b$10$AtAjePZuu7FyE6v529f9suEBiQpm74stKVwwc5LppyubILUNMhehy",
+  "role": "normal",
+  "status": "active",
+  "position": "Manager",
+  "yearsOfExperience": 0,
+  "avatar": null,
+  "teamId": null,
+  "workloadScore": 0,
+  "performanceScore": 0,
+  "availability": true,
+  "jobRole": "",
+  "theme": "light",
+  "accessibilityMode": "none",
+  "mustChangePassword": false,
+  "resetToken": null,
+  "resetTokenExpiry": null,
+  "activeSessions": [],
+  "deviceInfo": "Unknown Device",
+  "totalRewardPoints": 0,
+  "rewardHistory": [],
+  "createdAt": {
+    "$date": "2026-03-05T03:55:21.784Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-05T03:55:21.784Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a90244d06629699331a8a0"
+  },
+  "name": "Tester Two",
+  "email": "tester2@test.com",
+  "password": "$2b$10$X4qKUJ7x1yEKlM9hvDQpfO3HJ7MmKO6FhOysgxzPs/8qAiJMg0Axy",
+  "role": "normal",
+  "status": "active",
+  "position": "Tester",
+  "yearsOfExperience": 0,
+  "avatar": null,
+  "teamId": {
+    "$oid": "699d6f559ab8d23389e3fd59"
+  },
+  "workloadScore": 0,
+  "performanceScore": 0,
+  "availability": true,
+  "jobRole": "",
+  "theme": "light",
+  "accessibilityMode": "none",
+  "mustChangePassword": false,
+  "resetToken": null,
+  "resetTokenExpiry": null,
+  "activeSessions": [],
+  "deviceInfo": "Unknown Device",
+  "totalRewardPoints": 0,
+  "rewardHistory": [],
+  "createdAt": {
+    "$date": "2026-03-05T04:10:44.667Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T07:38:16.932Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69aaa8a42ff858146392117c"
+  },
+  "name": "Cheran",
+  "email": "cheran@gmail.com",
+  "password": "$2b$10$LL0r4TE8oan.yYX8kxIhJON1zy0h2o2RrqPBXlryy7sXBRFyUbP4.",
+  "role": "normal",
+  "status": "active",
+  "position": "full stack developer",
+  "yearsOfExperience": 0,
+  "avatar": null,
+  "teamId": null,
+  "workloadScore": 0,
+  "performanceScore": 0,
+  "availability": true,
+  "jobRole": "",
+  "theme": "light",
+  "accessibilityMode": "none",
+  "mustChangePassword": false,
+  "resetToken": "2yaaa0xcplfxdmc56eltu",
+  "resetTokenExpiry": {
+    "$date": "2026-03-10T09:42:43.083Z"
+  },
+  "activeSessions": [],
+  "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0",
+  "totalRewardPoints": 50,
+  "rewardHistory": [
+    {
+      "taskId": null,
+      "taskTitle": "Goal: complete day",
+      "pointsAwarded": 50,
+      "awardedBy": {
+        "$oid": "69904e16508281520d683c8f"
+      },
+      "awardedAt": {
+        "$date": "2026-03-12T04:31:55.745Z"
+      },
+      "_id": {
+        "$oid": "69b241bb24f811a26bd3491d"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2026-03-06T10:12:52.741Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-04T09:34:12.270Z"
+  },
+  "__v": 0,
+  "lastLogin": {
+    "$date": "2026-04-04T09:34:12.269Z"
+  },
+  "bio": "",
+  "github": "",
+  "linkedin": "",
+  "portfolio": ""
+},
+{
+  "_id": {
+    "$oid": "69af931c81ead53718412388"
+  },
+  "name": "Ellie",
+  "email": "ellie.it23@bitsathy.ac.in",
+  "password": "$2b$10$r.LAXrNfnpAAU4A5AGYZ7OaQ50ylFK32PHAG9wF5AoR398uzE9cjS",
+  "role": "admin",
+  "status": "active",
+  "position": "designer",
+  "yearsOfExperience": 3,
+  "age": 25,
+  "avatar": null,
+  "teamId": null,
+  "workloadScore": 0,
+  "performanceScore": 0,
+  "availability": true,
+  "jobRole": "",
+  "theme": "light",
+  "accessibilityMode": "none",
+  "mustChangePassword": true,
+  "resetToken": null,
+  "resetTokenExpiry": null,
+  "activeSessions": [],
+  "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0",
+  "totalRewardPoints": 0,
+  "rewardHistory": [],
+  "createdAt": {
+    "$date": "2026-03-10T03:42:20.199Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-04T09:26:35.099Z"
+  },
+  "__v": 0,
+  "bio": "",
+  "github": "",
+  "lastLogin": {
+    "$date": "2026-04-04T09:26:35.098Z"
+  },
+  "linkedin": "",
+  "portfolio": ""
+}]

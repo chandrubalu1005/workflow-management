@@ -1,0 +1,379 @@
+[{
+  "_id": {
+    "$oid": "69929f6919a3495b5d007c60"
+  },
+  "title": "FDGRDtufyk",
+  "description": "bgli;ol",
+  "priority": "medium",
+  "status": "in-progress",
+  "startDate": {
+    "$date": "2026-02-16T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2026-02-24T00:00:00.000Z"
+  },
+  "assignedTo": {
+    "$oid": "69904f118775588f4218a24b"
+  },
+  "createdBy": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "goals": [
+    {
+      "$oid": "69929f6919a3495b5d007c62"
+    },
+    {
+      "$oid": "69929f6919a3495b5d007c63"
+    },
+    {
+      "$oid": "69929f6919a3495b5d007c64"
+    }
+  ],
+  "createdAt": {
+    "$date": "2026-02-16T04:39:05.140Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T10:32:30.445Z"
+  },
+  "__v": 3,
+  "acknowledgedBy": [],
+  "assignment": {
+    "members": [],
+    "strategy": "synchronous",
+    "targetModel": "User",
+    "type": "individual"
+  },
+  "completionMode": "individual",
+  "order": 0,
+  "rewardPoints": 0,
+  "dependencies": [],
+  "estimatedHours": 0,
+  "loggedHours": 0,
+  "subtasks": [],
+  "tags": []
+},
+{
+  "_id": {
+    "$oid": "69af955a81ead53718412421"
+  },
+  "title": "create web appplication for clock",
+  "description": "require with simple ui",
+  "priority": "high",
+  "status": "completed",
+  "completionMode": "individual",
+  "order": 0,
+  "rewardPoints": 5,
+  "startDate": {
+    "$date": "2026-12-03T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2026-02-05T00:00:00.000Z"
+  },
+  "assignedTo": {
+    "$oid": "69a90244d06629699331a8a0"
+  },
+  "assignment": {
+    "type": "individual",
+    "targetModel": "User",
+    "strategy": "synchronous",
+    "members": []
+  },
+  "acknowledgedBy": [],
+  "createdBy": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "goals": [],
+  "createdAt": {
+    "$date": "2026-03-10T03:51:54.661Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-17T06:14:44.381Z"
+  },
+  "__v": 1,
+  "dependencies": [],
+  "estimatedHours": 0,
+  "loggedHours": 0,
+  "subtasks": [],
+  "tags": []
+},
+{
+  "_id": {
+    "$oid": "69af956781ead53718412427"
+  },
+  "title": "create web appplication for clock",
+  "description": "require with simple ui",
+  "priority": "high",
+  "status": "completed",
+  "completionMode": "individual",
+  "order": 0,
+  "rewardPoints": 5,
+  "startDate": {
+    "$date": "2026-12-03T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2026-02-05T00:00:00.000Z"
+  },
+  "assignedTo": {
+    "$oid": "69a90244d06629699331a8a0"
+  },
+  "assignment": {
+    "type": "individual",
+    "targetModel": "User",
+    "strategy": "synchronous",
+    "members": []
+  },
+  "acknowledgedBy": [],
+  "createdBy": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "goals": [],
+  "createdAt": {
+    "$date": "2026-03-10T03:52:07.149Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-14T04:32:36.047Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69af988f81ead53718412585"
+  },
+  "title": "clock design",
+  "description": "digital clock",
+  "priority": "medium",
+  "status": "completed",
+  "completionMode": "individual",
+  "order": 0,
+  "rewardPoints": 34,
+  "startDate": {
+    "$date": "2026-03-03T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2026-03-06T00:00:00.000Z"
+  },
+  "assignedTo": {
+    "$oid": "69aaa8a42ff858146392117c"
+  },
+  "assignment": {
+    "type": "individual",
+    "targetModel": "User",
+    "strategy": "synchronous",
+    "members": []
+  },
+  "acknowledgedBy": [],
+  "project": {
+    "$oid": "69a8fee4d06629699331a715"
+  },
+  "createdBy": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "goals": [],
+  "createdAt": {
+    "$date": "2026-03-10T04:05:35.522Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-17T04:23:33.729Z"
+  },
+  "__v": 1,
+  "dependencies": [],
+  "estimatedHours": 0,
+  "loggedHours": 0,
+  "subtasks": [],
+  "tags": []
+},
+{
+  "_id": {
+    "$oid": "69af9afb81ead537184125d4"
+  },
+  "title": "simple static webpage login design",
+  "description": "",
+  "priority": "medium",
+  "status": "completed",
+  "completionMode": "individual",
+  "order": 0,
+  "rewardPoints": 0,
+  "startDate": {
+    "$date": "2026-03-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2026-03-16T00:00:00.000Z"
+  },
+  "assignedTo": {
+    "$oid": "699d66049ab8d23389e3fca1"
+  },
+  "assignment": {
+    "type": "individual",
+    "targetId": {
+      "$oid": "699d66049ab8d23389e3fca1"
+    },
+    "strategy": "synchronous",
+    "targetModel": "User",
+    "members": []
+  },
+  "acknowledgedBy": [],
+  "createdBy": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "goals": [],
+  "createdAt": {
+    "$date": "2026-03-10T04:15:55.921Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-12T04:32:18.064Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69af9edcf8cb0b65ce889176"
+  },
+  "title": "simple login page for library application",
+  "description": "",
+  "priority": "medium",
+  "status": "completed",
+  "completionMode": "individual",
+  "order": 0,
+  "rewardPoints": 0,
+  "startDate": {
+    "$date": "2026-03-11T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2026-03-15T00:00:00.000Z"
+  },
+  "assignedTo": {
+    "$oid": "699d66049ab8d23389e3fca1"
+  },
+  "assignment": {
+    "type": "individual",
+    "targetId": {
+      "$oid": "699d66049ab8d23389e3fca1"
+    },
+    "targetModel": "User",
+    "strategy": "synchronous",
+    "members": []
+  },
+  "acknowledgedBy": [],
+  "createdBy": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "goals": [
+    {
+      "$oid": "69af9edcf8cb0b65ce889179"
+    },
+    {
+      "$oid": "69af9edcf8cb0b65ce88917a"
+    },
+    {
+      "$oid": "69af9edcf8cb0b65ce88917b"
+    }
+  ],
+  "createdAt": {
+    "$date": "2026-03-10T04:32:28.366Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-17T04:23:43.781Z"
+  },
+  "__v": 2,
+  "dependencies": [],
+  "estimatedHours": 0,
+  "loggedHours": 0,
+  "subtasks": [],
+  "tags": []
+},
+{
+  "_id": {
+    "$oid": "69b242dc24f811a26bd34988"
+  },
+  "title": "server setup",
+  "description": "college server",
+  "priority": "medium",
+  "status": "completed",
+  "completionMode": "individual",
+  "order": 0,
+  "rewardPoints": 0,
+  "startDate": {
+    "$date": "2026-03-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2026-03-13T00:00:00.000Z"
+  },
+  "assignedTo": {
+    "$oid": "69904f118775588f4218a24b"
+  },
+  "assignment": {
+    "type": "individual",
+    "targetId": {
+      "$oid": "69904f118775588f4218a24b"
+    },
+    "targetModel": "User",
+    "strategy": "synchronous",
+    "members": []
+  },
+  "acknowledgedBy": [],
+  "createdBy": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "goals": [
+    {
+      "$oid": "69b242dc24f811a26bd3498b"
+    },
+    {
+      "$oid": "69b242dc24f811a26bd3498c"
+    }
+  ],
+  "createdAt": {
+    "$date": "2026-03-12T04:36:44.288Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-25T07:40:46.947Z"
+  },
+  "__v": 2,
+  "dependencies": [],
+  "estimatedHours": 0,
+  "loggedHours": 0,
+  "subtasks": [],
+  "tags": []
+},
+{
+  "_id": {
+    "$oid": "69d0cf710cf8cc1185fdfa16"
+  },
+  "title": "server",
+  "description": "Created from template: work station",
+  "priority": "medium",
+  "status": "pending",
+  "completionMode": "individual",
+  "order": 0,
+  "rewardPoints": 0,
+  "endDate": {
+    "$date": "2026-04-05T08:44:33.029Z"
+  },
+  "assignment": {
+    "type": "individual",
+    "targetModel": "User",
+    "strategy": "synchronous",
+    "members": []
+  },
+  "acknowledgedBy": [],
+  "project": {
+    "$oid": "69d0cf700cf8cc1185fdfa14"
+  },
+  "parentTask": null,
+  "subtasks": [],
+  "dependencies": [],
+  "estimatedHours": 0,
+  "loggedHours": 0,
+  "tags": [],
+  "createdBy": {
+    "$oid": "69904e16508281520d683c8f"
+  },
+  "goals": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-04T08:44:33.031Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T08:16:27.534Z"
+  }
+}]

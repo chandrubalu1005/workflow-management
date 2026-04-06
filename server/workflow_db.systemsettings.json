@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "699eb6e2e7e32efb18e10580"
+  },
+  "defaultCompletionStrategy": "synchronous",
+  "maxProjectMembers": 20,
+  "maxTeamSize": 15,
+  "workloadThreshold": 80,
+  "customRoles": [],
+  "allowSelfAssign": false,
+  "requireTaskApproval": false,
+  "deadlineReminderDays": 2,
+  "orgName": "My Organization",
+  "updatedBy": null,
+  "createdAt": {
+    "$date": "2026-02-25T08:46:26.769Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T08:46:26.769Z"
+  },
+  "__v": 0
+}]

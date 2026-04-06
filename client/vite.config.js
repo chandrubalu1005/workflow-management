@@ -31,8 +31,8 @@ export default defineConfig({
   plugins: [react()],
   define: {
     // Inject the real network IP into every file that uses import.meta.env.VITE_API_URL
-    // This overrides the .env file value, ensuring all devices on the LAN work
-    'import.meta.env.VITE_API_URL': JSON.stringify(API_BASE),
+    // Use the environment variable if provided (for production), otherwise fallback to LAN IP for dev
+    'import.meta.env.VITE_API_URL': JSON.stringify(process.env.VITE_API_URL || API_BASE),
   },
   server: {
     host: '0.0.0.0',   // Bind to all interfaces (LAN access)

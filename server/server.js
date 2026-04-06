@@ -34,10 +34,20 @@ app.use(helmet({
 }));
 
 // ── CORS (Restricted to known origins) ─────────────────────────────────────
+const allowedOrigins = [
+    process.env.CLIENT_URL,
+    'http://localhost:5173',
+    'http://127.0.0.1:5173'
+].filter(Boolean);
+
 app.use(cors({
     origin: (origin, callback) => {
-        // Allow all origins in development for easy network access
-        callback(null, true);
+        // Allow all origins in development or if the origin is in our allowlist
+        if (!origin || process.env.NODE_ENV === 'development' || allowedOrigins.includes(origin)) {
+            callback(null, true);
+        } else {
+            callback(new Error('CORS: Origin not allowed'));
+        }
     },
     credentials: true,
     methods: ['GET', 'POST', 'PUT', 'PATCH', 'DELETE'],

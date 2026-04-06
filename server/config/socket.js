@@ -6,7 +6,7 @@ const connectedUsers = new Map(); // userId -> { socketId, name, status }
 export const initSocket = (server) => {
     io = new Server(server, {
         cors: {
-            origin: "*", 
+            origin: process.env.CLIENT_URL || "*", 
             methods: ["GET", "POST"]
         }
     });

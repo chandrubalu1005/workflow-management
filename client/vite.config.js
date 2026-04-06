@@ -54,33 +54,8 @@ export default defineConfig({
     rollupOptions: {
       output: {
         manualChunks: (id) => {
-          // React core — smallest, most cached chunk
-          if (id.includes('node_modules/react/') || id.includes('node_modules/react-dom/')) {
-            return 'vendor-react';
-          }
-          // Framer Motion (heavy) — isolated chunk
-          if (id.includes('node_modules/framer-motion')) {
-            return 'vendor-motion';
-          }
-          // Recharts (heavy) — isolated chart chunk
-          if (id.includes('node_modules/recharts') || id.includes('node_modules/d3-')) {
-            return 'vendor-charts';
-          }
-          // React Router
-          if (id.includes('node_modules/react-router') || id.includes('node_modules/@remix-run')) {
-            return 'vendor-router';
-          }
-          // Lucide icons
-          if (id.includes('node_modules/lucide-react')) {
-            return 'vendor-icons';
-          }
-          // DnD Kit
-          if (id.includes('node_modules/@dnd-kit')) {
-            return 'vendor-dnd';
-          }
-          // All other node_modules go into a general vendor chunk
           if (id.includes('node_modules')) {
-            return 'vendor-misc';
+            return 'vendor';
           }
         }
       }

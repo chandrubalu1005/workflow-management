@@ -6,7 +6,11 @@ const connectedUsers = new Map(); // userId -> { socketId, name, status }
 export const initSocket = (server) => {
     io = new Server(server, {
         cors: {
-            origin: process.env.CLIENT_URL || "*", 
+            origin: [
+                'https://workflow-management-tool.netlify.app',
+                process.env.CLIENT_URL,
+                'http://localhost:5173'
+            ].filter(Boolean),
             methods: ["GET", "POST"]
         }
     });
